@@ -11,7 +11,7 @@ Bienvenue sur **Crimiland**, une base de connaissances dédiée au référenceme
 ## Fiches Récentes :
 
 * [[Wuornos-aileen|Aileen Wuornos]] - *"La demoiselle de la mort - the damoisel of death" (1989-1990)*
-* [[tueurs/Dahmer Jeffrey|Dahmer]] *Le cannibale*
+* [[DAHMER Jeffrey|Dahmer]] *Le cannibale*
 
 
 ---
