@@ -2,7 +2,7 @@
 title: Crimiland - Les Tueuses en Serie
 description: Une base de connaissance sur les tueurs et tueuses en série.
 ---
-![[content/static/logo.png|Crimiland]]
+<img src="/static/logo.png" alt="Logo">
 # Crimiland
 
 Bienvenue sur **Crimiland**, une base de connaissances dédiée au référencement et à l'analyse des affaires criminelles impliquant des **tueuses en série** à travers l'histoire.
