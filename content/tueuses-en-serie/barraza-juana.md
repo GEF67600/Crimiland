@@ -85,4 +85,4 @@ L'enquête sur *La Mataviejitas* est restée célèbre pour les failles et stér
 ## 🔗 LIENS ET DOSSIERS ASSOCIÉS
 * **Affaires de tueuses en série :** [[wuornos-aileen|Wuornos, Aileen]]
 * **Affaires de tueurs en série :** [[tueurs/dahmer-jeffrey|Dahmer, Jeffrey]]
-* **Index principal :** [[index|Menu Principal Crimiland]]
+* **Index principal :** [[content/index|Menu Principal Crimiland]]
