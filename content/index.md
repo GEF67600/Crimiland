@@ -18,7 +18,7 @@ Bienvenue sur **Crimiland**, une base de connaissances dédiée au référenceme
 
 ## Par Typologie & Profils
 
-* **[[/veuves-noires|Les Veuves Noires]]** : Meurtres de conjoints/proches pour des motifs financiers.
+* **[[content/veuves-noires|Les Veuves Noires]]** : Meurtres de conjoints/proches pour des motifs financiers.
 * **[[profils/anges-de-la-mort|Les Anges de la Mort]]** : Crimes commis en milieu hospitalier ou paramédical.
 * **[[profils/autoroute|Tueuses de Pistes / Autoroutes]]** : Ciblage d'inconnus avec armes à feu ou armes blanches.
 
