@@ -9,7 +9,7 @@ tags:
   - condamnee-a-perpetuite
 ---
 ![[Barraza Juana.jpg]]
-La Mataviejitas (La tueuse de )
+La Mataviejitas (La tueuse de vieilles femmes)
 # 📁 DOSSIER CRIMINEL : BARRAZA, JUANA
 
 <div class="suspect-card">
