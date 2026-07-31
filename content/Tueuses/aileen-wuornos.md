@@ -5,10 +5,6 @@ tags:
   - tueuse
   - etats-unis
   - 20eme-siecle
-  - prostituee
-  - colerique
-  - violente
-  - bisexuelle
 ---
 
 # Wuornos Aileen
