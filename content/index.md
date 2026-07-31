@@ -4,7 +4,7 @@ description: Une base de connaissance sur les tueurs et tueuses en série.
 ---
 # Crimiland
 
-<div align="center"> <img src="content/static/logo.png" width="200" alt="Logo"> </div>
+<div align="center"> <img src="/static/logo.png" width="200" alt="Logo"> </div>
 
 Bienvenue sur **Crimiland**, une base de connaissances dédiée au référencement et à l'analyse des affaires criminelles impliquant des **tueuses en série** à travers l'histoire.
 
