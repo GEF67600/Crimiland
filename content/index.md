@@ -2,7 +2,9 @@
 title: Crimiland - Les Tueuses en Serie
 description: Une base de connaissance sur les tueurs et tueuses en série.
 ---
-# Crimiland #
+# Crimiland
+
+<div align="center"> <img src="/static/logo.png" width="200" alt="Logo"> </div>
 
 Bienvenue sur **Crimiland**, une base de connaissances dédiée au référencement et à l'analyse des affaires criminelles impliquant des **tueuses en série** à travers l'histoire.
 
@@ -16,7 +18,7 @@ Bienvenue sur **Crimiland**, une base de connaissances dédiée au référenceme
 
 ---
 
-## ?? Par Typologie & Profils
+## Par Typologie & Profils
 
 * **[[profils/veuves-noires|Les Veuves Noires]]** : Meurtres de conjoints/proches pour des motifs financiers.
 * **[[profils/anges-de-la-mort|Les Anges de la Mort]]** : Crimes commis en milieu hospitalier ou paramédical.
