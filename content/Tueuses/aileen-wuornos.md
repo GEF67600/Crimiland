@@ -54,4 +54,3 @@ Lors de son arrestation en janvier 1991 dans un bar de motards (le *Last Resort*
 * [[index|Retour à l'accueil]]
 * Voir les tueuses du [[epoques/20eme-siecle|XXe siècle]]
 * Comparer avec [[tueuses/juana-barraza|Juana Barraza]]
-* [[auditions/wuornos-pv-1991|Consulter le Procès-Verbal d'audition du 09/01/1991]]
