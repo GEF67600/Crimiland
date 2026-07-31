@@ -7,7 +7,7 @@ tags:
   - tueuse-en-serie
   - lucha-libre
   - condamnee-a-perpetuite
-image:
+image: /static/juana-barraza-1.jpg
 ---
 
 # 📁 DOSSIER CRIMINEL : BARRAZA, JUANA
