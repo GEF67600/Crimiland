@@ -1,23 +1,17 @@
 ---
-title: Aileen Wuornos
+title: Wuornos Aileen
 draft: false
 tags:
   - tueuse
   - etats-unis
   - 20eme-siecle
-  - tueuse en série
-  - condamnée à mort
-  - couloir de la mort
-  - la demoiselle de la mort
-  - the damsel of death
-  - arme a feu
-  - prostituée
-  - colèrique
+  - prostituee
+  - colerique
   - violente
   - bisexuelle
 ---
 
-# Aileen Wuornos
+# Wuornos Aileen
 
 > **"La première tueuse en série d'Amérique"** (selon la désignation médiatique du FBI)
 
