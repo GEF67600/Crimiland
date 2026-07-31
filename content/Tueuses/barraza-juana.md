@@ -1,5 +1,5 @@
 ---
-title: "BARRAZA, Juana"
+title: BARRAZA, Juana
 draft: false
 tags:
   - tueuse
@@ -7,6 +7,7 @@ tags:
   - tueuse-en-serie
   - lucha-libre
   - condamnee-a-perpetuite
+image:
 ---
 
 # 📁 DOSSIER CRIMINEL : BARRAZA, JUANA
