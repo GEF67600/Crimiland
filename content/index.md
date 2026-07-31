@@ -1,23 +1,25 @@
 ---
 title: Crimiland - Les Tueuses en Serie
+description: Une base de connaissance sur les tueurs et tueuses en sÃ©rie.
 ---
 
 # ?? Crimiland
 
-Bienvenue sur **Crimiland**, une base de connaissances dédiée au référencement et à l'analyse des affaires criminelles impliquant des **tueuses en série** à travers l'histoire.
+Bienvenue sur **Crimiland**, une base de connaissances dÃ©diÃ©e au rÃ©fÃ©rencement et Ã  l'analyse des affaires criminelles impliquant des **tueuses en sÃ©rie** Ã  travers l'histoire.
 
 ---
 
-## ??? Fiches Récentes
+## Fiches RÃ©centes :
 
-* [[tueuses/aileen-wuornos|Aileen Wuornos]] – *La tueuse de l'autoroute Interstate 75 (1989-1990)*
-* [[tueuses/aileen-wuornos-pv1|Procès-Verbal d'audition (09/01/1991)]]
+* [[tueuses/aileen-wuornos|Aileen Wuornos]] - *"La demoiselle de la mort - the damoisel of death" (1989-1990)*
+* [[tueurs/Dahmer Jeffrey|Dahmer]] *Le cannibale*
+
 
 ---
 
 ## ?? Par Typologie & Profils
 
 * **[[profils/veuves-noires|Les Veuves Noires]]** : Meurtres de conjoints/proches pour des motifs financiers.
-* **[[profils/anges-de-la-mort|Les Anges de la Mort]]** : Crimes commis en milieu hospitalier ou paramédical.
-* **[[profils/autoroute|Tueuses de Pistes / Autoroutes]]** : Ciblage d'inconnus avec armes à feu ou armes blanches.
+* **[[profils/anges-de-la-mort|Les Anges de la Mort]]** : Crimes commis en milieu hospitalier ou paramÃ©dical.
+* **[[profils/autoroute|Tueuses de Pistes / Autoroutes]]** : Ciblage d'inconnus avec armes Ã  feu ou armes blanches.
 
