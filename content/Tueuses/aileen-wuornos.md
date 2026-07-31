@@ -4,7 +4,9 @@ draft: false
 tags:
   - tueuse
   - etats-unis
-  - 20eme-siecle
+  - condamnee-a-mort
+  - prostituee
+  - arme-a-feu
 ---
 
 # Wuornos Aileen
