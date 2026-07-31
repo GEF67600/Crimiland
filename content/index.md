@@ -12,7 +12,7 @@ Bienvenue sur **Crimiland**, une base de connaissances dédiée au référenceme
 
 * [[wuornos-aileen|Aileen Wuornos]] - *"La demoiselle de la mort - the damoisel of death" (1989-1990)*
 * [[DAHMER Jeffrey|Dahmer]] *Le cannibale*
-* [Barra]
+* [Barraza]
 
 ---
 
