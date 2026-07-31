@@ -1,5 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
+  <img src="/static/logo.png" alt="Logo">
   pageTitle: "CRIMILAND"
   pageTitleSuffix: ""
   enableSPA: true
