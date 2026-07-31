@@ -8,7 +8,7 @@ tags:
   - lucha-libre
   - condamnee-a-perpetuite
 ---
-![[juana-barraza-1.jpg]]
+![[Barraza Juana.jpg]]
 # 📁 DOSSIER CRIMINEL : BARRAZA, JUANA
 
 <div class="suspect-card">
