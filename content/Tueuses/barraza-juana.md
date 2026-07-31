@@ -9,6 +9,7 @@ tags:
   - condamnee-a-perpetuite
 ---
 ![[Barraza Juana.jpg]]
+
 # 📁 DOSSIER CRIMINEL : BARRAZA, JUANA
 
 <div class="suspect-card">
