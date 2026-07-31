@@ -1,13 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  <img src="/static/logo.png" alt="Logo">
-  pageTitle: "CRIMILAND"
+  pageTitle: "CRIMILAND" 
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: fr-FR
   baseUrl: gef67600.github.io/Crimiland
   ignorePatterns:
     - private
