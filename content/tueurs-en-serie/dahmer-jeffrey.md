@@ -8,7 +8,7 @@ tags:
   - cannibalisme
   - condamne-a-perpetuite
 ---
-
+![[jdahmer.jpg]]
 # 📁 DOSSIER CRIMINEL : DAHMER, JEFFREY
 
 <div class="suspect-card">
