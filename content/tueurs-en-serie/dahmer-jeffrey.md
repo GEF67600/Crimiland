@@ -73,5 +73,5 @@ Après un passage dans l'armée américaine dont il est renvoyé pour alcoolisme
 ---
 
 ## 🔗 LIENS ET DOSSIERS ASSOCIÉS
-* **Fiches Tueuses :** [[tueuses/wuornos-aileen|Wuornos, Aileen]] | [[tueuses/barraza-juana|Barraza, Juana]]
+* **Fiches Tueuses :** [[content/wuornos-aileen|Wuornos, Aileen]] | [[tueuses/barraza-juana|Barraza, Juana]]
 * **Index général :** [[index|Menu Principal Crimiland]]
