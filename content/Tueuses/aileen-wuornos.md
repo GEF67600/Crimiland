@@ -5,6 +5,16 @@ tags:
   - tueuse
   - etats-unis
   - 20eme-siecle
+  - tueuse en série
+  - condamnée à mort
+  - couloir de la mort
+  - la demoiselle de la mort
+  - the damsel of death
+  - arme a feu
+  - prostituée
+  - colèrique
+  - violente
+  - bisexuelle
 ---
 
 # Aileen Wuornos
