@@ -10,7 +10,7 @@ Bienvenue sur **Crimiland**, une base de connaissances dédiée au référenceme
 
 ## Fiches Récentes :
 
-* [[tueuses/aileen-wuornos|Aileen Wuornos]] - *"La demoiselle de la mort - the damoisel of death" (1989-1990)*
+* [[Wuornos-aileen|Aileen Wuornos]] - *"La demoiselle de la mort - the damoisel of death" (1989-1990)*
 * [[tueurs/Dahmer Jeffrey|Dahmer]] *Le cannibale*
 
 
