@@ -85,4 +85,4 @@ Toutes les victimes étaient des hommes d'âge mûr, abattus à bout portant ave
 
 ## 🔗 LIENS ET DOSSIERS ASSOCIÉS
 * **Dossier parent :** [[index|Menu Principal Crimiland]]
-* **Affaires similaires :** [[tueurs/dahmer-jeffrey|Dahmer, Jeffrey]]
+* **Affaires similaires :** [[content/tueurs-en-serie/Dahmer-Jeffrey|Dahmer-Jeffrey]]
