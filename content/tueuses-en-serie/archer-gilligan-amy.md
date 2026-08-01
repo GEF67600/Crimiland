@@ -8,7 +8,7 @@ tags:
   - poison
   - asile
 ---
-
+![[amy-archer-gillian.jpg|243]]
 # 📁 DOSSIER CRIMINEL : ARCHER-GILLIGAN, AMY
 
 <div class="suspect-card">
