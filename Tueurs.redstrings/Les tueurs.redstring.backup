@@ -1,0 +1,171 @@
+{
+  "version": "0.4",
+  "meta": {
+    "name": "Les tueurs",
+    "title": "Les tueurs",
+    "created": "2026-08-05T09:54:43.937Z",
+    "modified": "2026-08-05T10:10:29.532Z",
+    "version": "0.3"
+  },
+  "viewport": {
+    "x": 501.81564245810057,
+    "y": -517.4972067039106,
+    "zoom": 2.1452513966480447
+  },
+  "settings": {
+    "nodeTypes": [
+      {
+        "id": "person",
+        "label": "Person",
+        "color": "#7c9cc9",
+        "icon": "user",
+        "isDefault": true,
+        "allowPhoto": true,
+        "relationships": []
+      },
+      {
+        "id": "team",
+        "label": "Team",
+        "color": "#9c7cc9",
+        "icon": "users",
+        "isDefault": true,
+        "relationships": []
+      },
+      {
+        "id": "artifact",
+        "label": "Artifact",
+        "color": "#7cc9b3",
+        "icon": "file-text",
+        "isDefault": true,
+        "relationships": []
+      },
+      {
+        "id": "process",
+        "label": "Process",
+        "color": "#c9a87c",
+        "icon": "git-branch",
+        "isDefault": true,
+        "relationships": []
+      },
+      {
+        "id": "place",
+        "label": "Place",
+        "color": "#c97c9c",
+        "icon": "map-pin",
+        "isDefault": true,
+        "allowPhoto": true,
+        "relationships": []
+      },
+      {
+        "id": "event",
+        "label": "Event",
+        "color": "#c9697c",
+        "icon": "calendar",
+        "isDefault": true,
+        "relationships": []
+      },
+      {
+        "id": "note",
+        "label": "Note",
+        "color": "#e8d44d",
+        "icon": "sticky-note",
+        "isDefault": true,
+        "relationships": []
+      }
+    ],
+    "analysisPresets": [
+      {
+        "id": "narrative",
+        "label": "Write Narrative",
+        "prompt": "Write a compelling narrative that tells the story of this board. Connect the dots between entities and relationships to create a coherent account of what is happening.",
+        "isDefault": true
+      },
+      {
+        "id": "analyze",
+        "label": "Analyze Structure",
+        "prompt": "Analyze the organizational structure on this board. Identify key players, power dynamics, and how information or influence flows between entities.",
+        "isDefault": true
+      },
+      {
+        "id": "gaps",
+        "label": "Find Gaps",
+        "prompt": "What information gaps exist on this board? What questions remain unanswered? What connections might be missing that would complete the picture?",
+        "isDefault": true
+      },
+      {
+        "id": "key-players",
+        "label": "Key Players",
+        "prompt": "Who are the key players on this board and why? Rank them by influence or importance and explain the reasoning.",
+        "isDefault": true
+      },
+      {
+        "id": "insights",
+        "label": "Key Insights",
+        "prompt": "What are the most important insights from this board? What patterns or connections stand out? What should I pay attention to?",
+        "isDefault": true
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "id": "fkpZHlaqCTU9aCnfqMojs",
+      "type": "person",
+      "name": "Guy Georges",
+      "position": {
+        "x": -56,
+        "y": 198
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "",
+        "source": "",
+        "tags": [
+          "guy",
+          "georges",
+          "tueur-en-serie",
+          "sk1"
+        ],
+        "created": "2026-08-05T09:55:33.168Z",
+        "modified": "2026-08-05T10:09:42.540Z",
+        "avatar": "SMz-s-obMRebrbI2i8GIU.jpg",
+        "title": "Le tueur de l'est parisien, SK1"
+      },
+      "size": {
+        "width": 208,
+        "height": 160
+      }
+    },
+    {
+      "id": "YYyDSE-yNNhsx7GV4LxEL",
+      "type": "person",
+      "name": "Pascale Escarfail",
+      "position": {
+        "x": -217.5546875,
+        "y": 383.4583333333333
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "Violée et égorgée ans son appartement.",
+        "source": "",
+        "tags": [
+          "escarfall",
+          "pascale",
+          "égorgée",
+          "violée",
+          "volée"
+        ],
+        "created": "2026-08-05T09:56:31.523Z",
+        "modified": "2026-08-05T10:04:35.639Z",
+        "title": "26/01/1991",
+        "avatar": "zMt6L97-3rFTjN64O5fi7.jpg"
+      },
+      "size": {
+        "width": 208,
+        "height": 227
+      }
+    }
+  ],
+  "edges": [],
+  "reports": [],
+  "checksum": "75f314d8"
+}

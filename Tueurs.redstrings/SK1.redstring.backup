@@ -1,0 +1,389 @@
+{
+  "version": "0.4",
+  "meta": {
+    "name": "Les tueurs",
+    "title": "Les tueurs",
+    "created": "2026-08-05T09:54:43.937Z",
+    "modified": "2026-08-05T10:51:36.801Z",
+    "version": "0.3"
+  },
+  "viewport": {
+    "x": 622.6289119087724,
+    "y": 250.47827787099072,
+    "zoom": 0.7395130106757782
+  },
+  "settings": {
+    "nodeTypes": [
+      {
+        "id": "person",
+        "label": "Person",
+        "color": "#7c9cc9",
+        "icon": "user",
+        "isDefault": true,
+        "allowPhoto": true,
+        "relationships": []
+      },
+      {
+        "id": "team",
+        "label": "Team",
+        "color": "#9c7cc9",
+        "icon": "users",
+        "isDefault": true,
+        "relationships": []
+      },
+      {
+        "id": "artifact",
+        "label": "Artifact",
+        "color": "#7cc9b3",
+        "icon": "file-text",
+        "isDefault": true,
+        "relationships": []
+      },
+      {
+        "id": "process",
+        "label": "Process",
+        "color": "#c9a87c",
+        "icon": "git-branch",
+        "isDefault": true,
+        "relationships": []
+      },
+      {
+        "id": "place",
+        "label": "Place",
+        "color": "#c97c9c",
+        "icon": "map-pin",
+        "isDefault": true,
+        "allowPhoto": true,
+        "relationships": []
+      },
+      {
+        "id": "event",
+        "label": "Event",
+        "color": "#c9697c",
+        "icon": "calendar",
+        "isDefault": true,
+        "relationships": []
+      },
+      {
+        "id": "note",
+        "label": "Note",
+        "color": "#e8d44d",
+        "icon": "sticky-note",
+        "isDefault": true,
+        "relationships": []
+      }
+    ],
+    "analysisPresets": [
+      {
+        "id": "narrative",
+        "label": "Write Narrative",
+        "prompt": "Write a compelling narrative that tells the story of this board. Connect the dots between entities and relationships to create a coherent account of what is happening.",
+        "isDefault": true
+      },
+      {
+        "id": "analyze",
+        "label": "Analyze Structure",
+        "prompt": "Analyze the organizational structure on this board. Identify key players, power dynamics, and how information or influence flows between entities.",
+        "isDefault": true
+      },
+      {
+        "id": "gaps",
+        "label": "Find Gaps",
+        "prompt": "What information gaps exist on this board? What questions remain unanswered? What connections might be missing that would complete the picture?",
+        "isDefault": true
+      },
+      {
+        "id": "key-players",
+        "label": "Key Players",
+        "prompt": "Who are the key players on this board and why? Rank them by influence or importance and explain the reasoning.",
+        "isDefault": true
+      },
+      {
+        "id": "insights",
+        "label": "Key Insights",
+        "prompt": "What are the most important insights from this board? What patterns or connections stand out? What should I pay attention to?",
+        "isDefault": true
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "id": "fkpZHlaqCTU9aCnfqMojs",
+      "type": "person",
+      "name": "Guy Georges",
+      "position": {
+        "x": -140.10424726144592,
+        "y": 79.72395975955142
+      },
+      "pinOffset": -0.0015578073018985214,
+      "data": {
+        "notes": "",
+        "source": "",
+        "tags": [
+          "guy",
+          "georges",
+          "tueur-en-serie",
+          "sk1"
+        ],
+        "created": "2026-08-05T09:55:33.168Z",
+        "modified": "2026-08-05T10:09:42.540Z",
+        "avatar": "SMz-s-obMRebrbI2i8GIU.jpg",
+        "title": "Le tueur de l'est parisien, SK1"
+      },
+      "size": {
+        "width": 208,
+        "height": 160
+      }
+    },
+    {
+      "id": "YYyDSE-yNNhsx7GV4LxEL",
+      "type": "person",
+      "name": "Pascale Escarfail",
+      "position": {
+        "x": -599.4558764929992,
+        "y": -99.91910239040666
+      },
+      "pinOffset": -0.009657093474510152,
+      "data": {
+        "notes": "Violée et égorgée ans son appartement.",
+        "source": "",
+        "tags": [
+          "escarfall",
+          "pascale",
+          "égorgée",
+          "violée",
+          "volée"
+        ],
+        "created": "2026-08-05T09:56:31.523Z",
+        "modified": "2026-08-05T10:04:35.639Z",
+        "title": "26/01/1991",
+        "avatar": "zMt6L97-3rFTjN64O5fi7.jpg"
+      },
+      "size": {
+        "width": 208,
+        "height": 227
+      }
+    },
+    {
+      "id": "g-EnoKjRM-xOOuNYSIjOa",
+      "type": "person",
+      "name": "Estelle Magd",
+      "position": {
+        "x": -601.5335554723144,
+        "y": 162.35044127657073
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "",
+        "source": "",
+        "tags": [],
+        "created": "2026-08-05T10:11:34.819Z",
+        "modified": "2026-08-05T10:13:02.262Z",
+        "title": "15/11/1997",
+        "avatar": "iHHYa40kfcHHZ1k--esY9.jpg"
+      },
+      "size": {
+        "width": 208,
+        "height": 160
+      }
+    },
+    {
+      "id": "Phjn_33iNdg2-sy17_pfo",
+      "type": "person",
+      "name": "Agnès Nijkamp",
+      "position": {
+        "x": -603.950039365279,
+        "y": 360.40166742361674
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "",
+        "source": "",
+        "tags": [],
+        "created": "2026-08-05T10:41:02.531Z",
+        "modified": "2026-08-05T10:41:28.382Z",
+        "avatar": "Sx1m9oORsnhwQ1RQPihtG.jpg",
+        "title": "10/12/1994"
+      },
+      "size": {
+        "width": 208,
+        "height": 160
+      }
+    },
+    {
+      "id": "slm8sNMkEfCYye-1FIEOB",
+      "type": "person",
+      "name": "Hélène Frinking",
+      "position": {
+        "x": -528.2245292098509,
+        "y": 574.055785362146
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "",
+        "source": "",
+        "tags": [],
+        "created": "2026-08-05T10:44:39.235Z",
+        "modified": "2026-08-05T10:44:58.341Z",
+        "avatar": "sUW6BYznXd9iKSlVcABFV.jpg",
+        "title": "08/07/1995"
+      },
+      "size": {
+        "width": 208,
+        "height": 160
+      }
+    },
+    {
+      "id": "p3uZXmkCB2X-RXWPRZFjg",
+      "type": "note",
+      "name": "Homicides",
+      "position": {
+        "x": -599.8933156069526,
+        "y": -200.77845247821807
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "",
+        "source": "",
+        "tags": [],
+        "created": "2026-08-05T10:48:38.070Z",
+        "modified": "2026-08-05T10:48:38.070Z"
+      }
+    },
+    {
+      "id": "_nxnXpGacYKlCs7-Vr0Zx",
+      "type": "note",
+      "name": "Agressions",
+      "position": {
+        "x": 110.03334210018768,
+        "y": -202.13069373099356
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "",
+        "source": "",
+        "tags": [],
+        "created": "2026-08-05T10:48:55.656Z",
+        "modified": "2026-08-05T10:48:55.656Z"
+      }
+    },
+    {
+      "id": "b96WfcS4no67-d7Rtd4kZ",
+      "type": "person",
+      "name": "Elisabeth Ortega",
+      "position": {
+        "x": 105.97661834186117,
+        "y": 73.72652183520948
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "",
+        "source": "",
+        "tags": [],
+        "created": "2026-08-05T10:49:41.834Z",
+        "modified": "2026-08-05T10:50:35.201Z",
+        "title": "16/06/1995"
+      }
+    },
+    {
+      "id": "0RzaTrXy_keo0WH3iX3aW",
+      "type": "person",
+      "name": "Nathalie L.",
+      "position": {
+        "x": 110.03334210018768,
+        "y": -112.88277104781025
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "",
+        "source": "",
+        "tags": [],
+        "created": "2026-08-05T10:50:06.026Z",
+        "modified": "2026-08-05T10:50:50.025Z",
+        "title": "16/11/1981"
+      }
+    },
+    {
+      "id": "4lFX1sDrYbWsUlR4vKqQy",
+      "type": "person",
+      "name": "Eléonor D.",
+      "position": {
+        "x": 108.68110084741218,
+        "y": -22.282607111851377
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "",
+        "source": "",
+        "tags": [],
+        "created": "2026-08-05T10:51:19.910Z",
+        "modified": "2026-08-05T10:51:31.109Z",
+        "title": "22/04/1992"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "aGeNjVtM-TlVbBamTcUOb",
+      "source": "fkpZHlaqCTU9aCnfqMojs",
+      "target": "YYyDSE-yNNhsx7GV4LxEL",
+      "label": "Victime",
+      "data": {
+        "notes": "",
+        "source": "",
+        "confidence": "uncertain",
+        "created": "2026-08-05T10:21:33.846Z",
+        "modified": "2026-08-05T10:21:33.846Z",
+        "labelPosition": {
+          "x": -302.8797716258838,
+          "y": -24.4552577849891
+        }
+      }
+    },
+    {
+      "id": "lcEKSsGnMfDTvXJDbFS1s",
+      "source": "fkpZHlaqCTU9aCnfqMojs",
+      "target": "g-EnoKjRM-xOOuNYSIjOa",
+      "label": "Victime",
+      "data": {
+        "notes": "",
+        "source": "",
+        "confidence": "uncertain",
+        "created": "2026-08-05T10:22:10.729Z",
+        "modified": "2026-08-05T10:22:10.729Z",
+        "labelPosition": {
+          "x": -182.7755851826808,
+          "y": 167.44950934809435
+        }
+      }
+    },
+    {
+      "id": "VxWvxsvUp2LcYX2A4qPfO",
+      "source": "fkpZHlaqCTU9aCnfqMojs",
+      "target": "Phjn_33iNdg2-sy17_pfo",
+      "label": "Victime",
+      "data": {
+        "notes": "",
+        "source": "",
+        "confidence": "uncertain",
+        "created": "2026-08-05T10:42:26.918Z",
+        "modified": "2026-08-05T10:42:26.918Z"
+      }
+    },
+    {
+      "id": "HyDAtWOcy2OjMsNTDBV1x",
+      "source": "fkpZHlaqCTU9aCnfqMojs",
+      "target": "slm8sNMkEfCYye-1FIEOB",
+      "label": "Victime",
+      "data": {
+        "notes": "",
+        "source": "",
+        "confidence": "uncertain",
+        "created": "2026-08-05T10:46:32.144Z",
+        "modified": "2026-08-05T10:46:32.144Z"
+      }
+    }
+  ],
+  "reports": [],
+  "checksum": "49b40b9a"
+}

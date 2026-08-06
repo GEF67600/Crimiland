@@ -1,0 +1,806 @@
+{
+  "version": "0.4",
+  "meta": {
+    "name": "Les tueurs",
+    "title": "Les tueurs",
+    "created": "2026-08-05T09:54:43.937Z",
+    "modified": "2026-08-05T11:56:52.362Z",
+    "version": "0.3"
+  },
+  "viewport": {
+    "x": 572.6289119087724,
+    "y": 527.4782778709907,
+    "zoom": 0.7395130106757782
+  },
+  "settings": {
+    "nodeTypes": [
+      {
+        "id": "person",
+        "label": "Person",
+        "color": "#7c9cc9",
+        "icon": "user",
+        "isDefault": true,
+        "allowPhoto": true,
+        "relationships": []
+      },
+      {
+        "id": "team",
+        "label": "Team",
+        "color": "#9c7cc9",
+        "icon": "users",
+        "isDefault": true,
+        "relationships": []
+      },
+      {
+        "id": "artifact",
+        "label": "Artifact",
+        "color": "#7cc9b3",
+        "icon": "file-text",
+        "isDefault": true,
+        "relationships": []
+      },
+      {
+        "id": "process",
+        "label": "Process",
+        "color": "#c9a87c",
+        "icon": "git-branch",
+        "isDefault": true,
+        "relationships": []
+      },
+      {
+        "id": "place",
+        "label": "Place",
+        "color": "#c97c9c",
+        "icon": "map-pin",
+        "isDefault": true,
+        "allowPhoto": true,
+        "relationships": []
+      },
+      {
+        "id": "event",
+        "label": "Event",
+        "color": "#c9697c",
+        "icon": "calendar",
+        "isDefault": true,
+        "relationships": []
+      },
+      {
+        "id": "note",
+        "label": "Note",
+        "color": "#e8d44d",
+        "icon": "sticky-note",
+        "isDefault": true,
+        "relationships": []
+      }
+    ],
+    "analysisPresets": [
+      {
+        "id": "narrative",
+        "label": "Write Narrative",
+        "prompt": "Write a compelling narrative that tells the story of this board. Connect the dots between entities and relationships to create a coherent account of what is happening.",
+        "isDefault": true
+      },
+      {
+        "id": "analyze",
+        "label": "Analyze Structure",
+        "prompt": "Analyze the organizational structure on this board. Identify key players, power dynamics, and how information or influence flows between entities.",
+        "isDefault": true
+      },
+      {
+        "id": "gaps",
+        "label": "Find Gaps",
+        "prompt": "What information gaps exist on this board? What questions remain unanswered? What connections might be missing that would complete the picture?",
+        "isDefault": true
+      },
+      {
+        "id": "key-players",
+        "label": "Key Players",
+        "prompt": "Who are the key players on this board and why? Rank them by influence or importance and explain the reasoning.",
+        "isDefault": true
+      },
+      {
+        "id": "insights",
+        "label": "Key Insights",
+        "prompt": "What are the most important insights from this board? What patterns or connections stand out? What should I pay attention to?",
+        "isDefault": true
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "id": "fkpZHlaqCTU9aCnfqMojs",
+      "type": "person",
+      "name": "Guy Georges",
+      "position": {
+        "x": -140.10424726144592,
+        "y": 79.72395975955142
+      },
+      "pinOffset": -0.0015578073018985214,
+      "data": {
+        "notes": "",
+        "source": "",
+        "tags": [
+          "guy",
+          "georges",
+          "tueur-en-serie",
+          "sk1"
+        ],
+        "created": "2026-08-05T09:55:33.168Z",
+        "modified": "2026-08-05T10:09:42.540Z",
+        "avatar": "SMz-s-obMRebrbI2i8GIU.jpg",
+        "title": "Le tueur de l'est parisien, SK1"
+      },
+      "size": {
+        "width": 208,
+        "height": 160
+      }
+    },
+    {
+      "id": "YYyDSE-yNNhsx7GV4LxEL",
+      "type": "person",
+      "name": "Pascale Escarfail (19)",
+      "position": {
+        "x": -612.9782890207542,
+        "y": -505.5914782230583
+      },
+      "pinOffset": -0.009657093474510152,
+      "data": {
+        "notes": "Violée et égorgée ans son appartement.",
+        "source": "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "tags": [
+          "escarfall",
+          "pascale",
+          "égorgée",
+          "violée",
+          "volée"
+        ],
+        "created": "2026-08-05T09:56:31.523Z",
+        "modified": "2026-08-05T11:12:38.520Z",
+        "title": "26/01/1991 - Tuée",
+        "avatar": "zMt6L97-3rFTjN64O5fi7.jpg"
+      },
+      "size": {
+        "width": 208,
+        "height": 227
+      }
+    },
+    {
+      "id": "g-EnoKjRM-xOOuNYSIjOa",
+      "type": "person",
+      "name": "Estelle Magd",
+      "position": {
+        "x": -613.703726747294,
+        "y": -254.13986457828491
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "",
+        "source": "",
+        "tags": [],
+        "created": "2026-08-05T10:11:34.819Z",
+        "modified": "2026-08-05T10:13:02.262Z",
+        "title": "15/11/1997",
+        "avatar": "iHHYa40kfcHHZ1k--esY9.jpg"
+      },
+      "size": {
+        "width": 208,
+        "height": 160
+      }
+    },
+    {
+      "id": "Phjn_33iNdg2-sy17_pfo",
+      "type": "person",
+      "name": "Agnès Nijkamp",
+      "position": {
+        "x": -613.4157281347076,
+        "y": -72.31553346454496
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "",
+        "source": "",
+        "tags": [],
+        "created": "2026-08-05T10:41:02.531Z",
+        "modified": "2026-08-05T10:41:28.382Z",
+        "avatar": "Sx1m9oORsnhwQ1RQPihtG.jpg",
+        "title": "10/12/1994"
+      },
+      "size": {
+        "width": 208,
+        "height": 160
+      }
+    },
+    {
+      "id": "slm8sNMkEfCYye-1FIEOB",
+      "type": "person",
+      "name": "Hélène Frinking",
+      "position": {
+        "x": -614.7679693874832,
+        "y": 104.82807064904569
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "",
+        "source": "",
+        "tags": [],
+        "created": "2026-08-05T10:44:39.235Z",
+        "modified": "2026-08-05T10:44:58.341Z",
+        "avatar": "sUW6BYznXd9iKSlVcABFV.jpg",
+        "title": "08/07/1995"
+      },
+      "size": {
+        "width": 208,
+        "height": 160
+      }
+    },
+    {
+      "id": "p3uZXmkCB2X-RXWPRZFjg",
+      "type": "note",
+      "name": "Homicides",
+      "position": {
+        "x": -612.0634868819321,
+        "y": -603.7463458053185
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "",
+        "source": "",
+        "tags": [],
+        "created": "2026-08-05T10:48:38.070Z",
+        "modified": "2026-08-05T10:48:38.070Z"
+      }
+    },
+    {
+      "id": "_nxnXpGacYKlCs7-Vr0Zx",
+      "type": "note",
+      "name": "Agressions",
+      "position": {
+        "x": -205.03886979650503,
+        "y": -1206.845944543194
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "",
+        "source": "",
+        "tags": [],
+        "created": "2026-08-05T10:48:55.656Z",
+        "modified": "2026-08-05T10:48:55.656Z"
+      }
+    },
+    {
+      "id": "b96WfcS4no67-d7Rtd4kZ",
+      "type": "person",
+      "name": "Elisabeth Ortega",
+      "position": {
+        "x": -73.87146827728105,
+        "y": 661.9514667925544
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "",
+        "source": "",
+        "tags": [],
+        "created": "2026-08-05T10:49:41.834Z",
+        "modified": "2026-08-05T10:50:35.201Z",
+        "title": "16/06/1995"
+      }
+    },
+    {
+      "id": "0RzaTrXy_keo0WH3iX3aW",
+      "type": "person",
+      "name": "Nathalie L. (18)",
+      "position": {
+        "x": -218.56128232426016,
+        "y": -1117.5980218600112
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "Laissée pour morte - Non Lieu (Aucune réponse pénale).",
+        "source": "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "tags": [
+          "violée",
+          "agressée",
+          "poignardée",
+          "laissée-pour-morte"
+        ],
+        "created": "2026-08-05T10:50:06.026Z",
+        "modified": "2026-08-05T11:37:07.208Z",
+        "title": "16/11/1981",
+        "avatar": "Ta_lxjkUXuILKGeYLyCBj.jpg"
+      },
+      "size": {
+        "width": 251.27172008881615,
+        "height": 216.79413261657123
+      }
+    },
+    {
+      "id": "4lFX1sDrYbWsUlR4vKqQy",
+      "type": "person",
+      "name": "Eléonor D.",
+      "position": {
+        "x": 181.70212849728946,
+        "y": 810.6980045978598
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "Boulevard Malesherbes Paris 17ème - Guy Georges est Arrêté pour ces faits et condamné à 5 ans dont 3 avec sursis.",
+        "source": "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "tags": [
+          "agression-sexuelle",
+          "agression"
+        ],
+        "created": "2026-08-05T10:51:19.910Z",
+        "modified": "2026-08-05T11:17:37.909Z",
+        "title": "22/04/1992"
+      }
+    },
+    {
+      "id": "wNXDP3GnexUvCH_mHnV5v",
+      "type": "person",
+      "name": "Roselyne Derouineau",
+      "position": {
+        "x": 203.33798854169734,
+        "y": -264.33379135866676
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "Soeur adoptive de Noyant",
+        "source": "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "tags": [
+          "soeur",
+          "adoptive",
+          "noyant",
+          "agressée_sexuellement"
+        ],
+        "created": "2026-08-05T10:55:56.003Z",
+        "modified": "2026-08-05T10:57:50.142Z",
+        "title": "novembre 1976"
+      }
+    },
+    {
+      "id": "BMX70nr6atQrwWyiGI-Cz",
+      "type": "person",
+      "name": "Christiane Derouineau",
+      "position": {
+        "x": 219.8155760139425,
+        "y": -174.83517623654467
+      },
+      "pinOffset": 0,
+      "data": {
+        "title": "31/03/1978",
+        "notes": "Soeur adoptive de Noyant",
+        "source": "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "tags": [
+          "soeur",
+          "adoptive",
+          "noyant",
+          "agressée_sexuellement"
+        ],
+        "created": "2026-08-05T10:58:17.679Z",
+        "modified": "2026-08-05T10:58:39.957Z"
+      }
+    },
+    {
+      "id": "zM-VEYFOekruYksz8vwlq",
+      "type": "person",
+      "name": "Pascale C. (20)",
+      "position": {
+        "x": 224.97384858610565,
+        "y": -73.66777471732058
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "Etudiante en journalisme -Maine et Loire",
+        "source": "",
+        "tags": [
+          "agression_sexuelle",
+          "viol"
+        ],
+        "created": "2026-08-05T10:59:13.810Z",
+        "modified": "2026-08-05T11:08:01.362Z",
+        "title": "06/02/1979 "
+      }
+    },
+    {
+      "id": "--Q0kF8QpR81OXZTqkzvE",
+      "type": "person",
+      "name": "Roselyne C. (33)",
+      "position": {
+        "x": 208.74695355279957,
+        "y": 207.59840585998444
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "Angers",
+        "source": "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "tags": [
+          "agression_sexuelle",
+          "viol"
+        ],
+        "created": "2026-08-05T11:01:33.321Z",
+        "modified": "2026-08-05T11:08:14.416Z",
+        "title": "16/05/1980"
+      }
+    },
+    {
+      "id": "TpeBrBtmxWLg6fT3z0yZR",
+      "type": "person",
+      "name": "Nathalie David (18)",
+      "position": {
+        "x": 118.14678961684072,
+        "y": 315.77770608202496
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "Parie, 14ème",
+        "source": "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "tags": [
+          "agression-sexuelle",
+          "viol"
+        ],
+        "created": "2026-08-05T11:03:21.678Z",
+        "modified": "2026-08-05T11:04:18.156Z",
+        "title": "16/11/1981"
+      }
+    },
+    {
+      "id": "IMhi0Z9nyXb_uaOvsMVte",
+      "type": "person",
+      "name": "Violette K",
+      "position": {
+        "x": 60.00041574749396,
+        "y": -968.8514840547058
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "Avenue Foch Paris 16ème - Tente d'étrangler puis de poignarder la victime.",
+        "source": "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "tags": [
+          "agression-sexuelle",
+          "viol",
+          "strangulation",
+          "poignarde",
+          "arme-blanche",
+          "survivante"
+        ],
+        "created": "2026-08-05T11:04:43.560Z",
+        "modified": "2026-08-05T11:51:14.919Z",
+        "title": "07/06/1982"
+      },
+      "size": {
+        "width": 336.462919013673,
+        "height": 130.0329263526937
+      }
+    },
+    {
+      "id": "j4XAKvXOlvJN7vEsEAjuK",
+      "type": "person",
+      "name": "Pascale Nix (22)",
+      "position": {
+        "x": 51.886968230840935,
+        "y": -515.8506643749108
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "Etudiante - Nancy - Est poignardée mais parvient a s'échapper.",
+        "source": "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "tags": [
+          "agression-sexuelle",
+          "viol",
+          "poignarde",
+          "survivante"
+        ],
+        "created": "2026-08-05T11:06:25.957Z",
+        "modified": "2026-08-05T11:51:04.189Z",
+        "title": "27/02/1984"
+      },
+      "size": {
+        "width": 347.28084903587705,
+        "height": 128.6806850999182
+      }
+    },
+    {
+      "id": "YEiQsBbE-Ya_F9wWwndkt",
+      "type": "person",
+      "name": "Jocelyne S. (24)",
+      "position": {
+        "x": 191.167817266718,
+        "y": 39.92049051582177
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "Angers",
+        "source": "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "tags": [
+          "agression-sexuelle",
+          "viol"
+        ],
+        "created": "2026-08-05T11:09:12.581Z",
+        "modified": "2026-08-05T11:10:11.719Z",
+        "title": "05/05/1980"
+      }
+    },
+    {
+      "id": "thged89Nv5L7AwaY0HQkT",
+      "type": "person",
+      "name": "Catherine \"Cathy\" Rocher (27)",
+      "position": {
+        "x": -614.7679693874832,
+        "y": 281.97167476263735
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "Assistante de Marketing - 70 Boulevard de Reuilly Paris 12ème",
+        "source": "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "tags": [
+          "homicide",
+          "meurtre",
+          "viol",
+          "vol"
+        ],
+        "created": "2026-08-05T11:18:21.741Z",
+        "modified": "2026-08-05T11:21:45.372Z",
+        "avatar": "xwN0p1z1rRIToFxEGyUgN.jpg",
+        "title": "07/01/1994"
+      },
+      "size": {
+        "width": 208,
+        "height": 160
+      }
+    },
+    {
+      "id": "IeK_-4cf2nrU7u2xXg1I1",
+      "type": "person",
+      "name": "Annie Le Fléouter (28)",
+      "position": {
+        "x": -169.88059722434193,
+        "y": 444.24062509569796
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "Animatrice Radio - 11 rue du Père-Corentin Paris 14ème",
+        "source": "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "tags": [
+          "agression-sexuelle",
+          "viol",
+          "victime"
+        ],
+        "created": "2026-08-05T11:25:57.001Z",
+        "modified": "2026-08-05T11:27:53.926Z",
+        "title": "13/01/1994"
+      }
+    },
+    {
+      "id": "-iCm6N49PR3XxVUpD-xiu",
+      "type": "person",
+      "name": "Elsa Benady (22)",
+      "position": {
+        "x": -616.1202106402586,
+        "y": 455.0585551179018
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "Attachée de presse - 110 Boulevard Auguste-Blanqui Paris 13ème",
+        "source": "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "tags": [],
+        "created": "2026-08-05T11:28:20.128Z",
+        "modified": "2026-08-05T11:30:45.183Z",
+        "title": "08/11/1994",
+        "avatar": "pXEvJJkESllkNkZZ8Vkhg.jpg"
+      },
+      "size": {
+        "width": 208,
+        "height": 160
+      }
+    },
+    {
+      "id": "yj2gZ5JXq616PLgGnqjde",
+      "type": "event",
+      "name": "Arrêté pour vol",
+      "position": {
+        "x": 60.000415747493975,
+        "y": -1219.016115818176
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "Détention provisoire - Condamné à cinq mois de prison, il est expédié à la maison d'arrêt de Fleury-Mérogis. ",
+        "source": "Condamné à cinq mois de prison, il est expédié à la maison d'arrêt de Fleury-Mérogis. Il est libéré le 30 mai 1982[",
+        "tags": [
+          "vol",
+          "prison",
+          "condamnation",
+          "fleury-mérogis"
+        ],
+        "created": "2026-08-05T11:38:01.946Z",
+        "modified": "2026-08-05T11:53:26.145Z",
+        "title": "février 1982"
+      },
+      "size": {
+        "width": 333.758436508122,
+        "height": 138.14637386934675
+      }
+    },
+    {
+      "id": "sFa4meotN7UPjr9vWvPYK",
+      "type": "event",
+      "name": "Arrêté pour agression sexuelle et attentat à la pudeur",
+      "position": {
+        "x": 55.94369198916746,
+        "y": -828.2183937660525
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "Il est condamné à 30 mois de prison ferme, qu'il purge partiellement à la prison d'Écrouves en Lorraine",
+        "source": "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "tags": [
+          "condamnation",
+          "agression-sexuelle",
+          "attentat-a-la-pudeur",
+          "prison"
+        ],
+        "created": "2026-08-05T11:45:59.792Z",
+        "modified": "2026-08-05T11:48:38.351Z",
+        "title": "10/02/1983"
+      },
+      "size": {
+        "width": 345.9103498889798,
+        "height": 136.79413261657123
+      }
+    },
+    {
+      "id": "YLpVFangbfacDREK4DRX_",
+      "type": "event",
+      "name": "Libéré de Fleury-Mérogis",
+      "position": {
+        "x": 58.648174494718475,
+        "y": -1070.269578012868
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "",
+        "source": "",
+        "tags": [],
+        "created": "2026-08-05T11:52:19.823Z",
+        "modified": "2026-08-05T11:53:02.561Z",
+        "title": "30/05/1982"
+      },
+      "size": {
+        "width": 333.758436508122,
+        "height": 90.81793002220404
+      }
+    },
+    {
+      "id": "HZ_fd-Z78u8JT8nUJVVc7",
+      "type": "event",
+      "name": "Permission de sortie",
+      "position": {
+        "x": 54.59145073639198,
+        "y": -678.1196147079716
+      },
+      "pinOffset": 0,
+      "data": {
+        "notes": "Après un an et demi de prison, Guy Georges obtient une permission de sortie pour bonne conduite. Il a alors 21 ans. Le soir même, il viole, à l'aide d'une arme, Pascale Nix dans sa voiture",
+        "source": "",
+        "tags": [],
+        "created": "2026-08-05T11:54:23.821Z",
+        "modified": "2026-08-05T11:55:36.826Z",
+        "title": "27/02/1984"
+      },
+      "size": {
+        "width": 349.9853315414281,
+        "height": 153.02102764987728
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "aGeNjVtM-TlVbBamTcUOb",
+      "source": "fkpZHlaqCTU9aCnfqMojs",
+      "target": "YYyDSE-yNNhsx7GV4LxEL",
+      "label": "Homicide N°1",
+      "data": {
+        "notes": "",
+        "source": "https://fr.wikipedia.org/wiki/Guy_Georges",
+        "confidence": "uncertain",
+        "created": "2026-08-05T10:21:33.846Z",
+        "modified": "2026-08-05T11:24:53.022Z",
+        "labelPosition": {
+          "x": -297.4708066147818,
+          "y": -280.0288545595596
+        }
+      }
+    },
+    {
+      "id": "lcEKSsGnMfDTvXJDbFS1s",
+      "source": "fkpZHlaqCTU9aCnfqMojs",
+      "target": "g-EnoKjRM-xOOuNYSIjOa",
+      "label": "Victime",
+      "data": {
+        "notes": "",
+        "source": "",
+        "confidence": "uncertain",
+        "created": "2026-08-05T10:22:10.729Z",
+        "modified": "2026-08-05T10:22:10.729Z",
+        "labelPosition": {
+          "x": -194.94575645766034,
+          "y": -31.329954809904933
+        }
+      }
+    },
+    {
+      "id": "VxWvxsvUp2LcYX2A4qPfO",
+      "source": "fkpZHlaqCTU9aCnfqMojs",
+      "target": "Phjn_33iNdg2-sy17_pfo",
+      "label": "Victime",
+      "data": {
+        "notes": "",
+        "source": "",
+        "confidence": "uncertain",
+        "created": "2026-08-05T10:42:26.918Z",
+        "modified": "2026-08-05T10:42:26.918Z"
+      }
+    },
+    {
+      "id": "HyDAtWOcy2OjMsNTDBV1x",
+      "source": "fkpZHlaqCTU9aCnfqMojs",
+      "target": "slm8sNMkEfCYye-1FIEOB",
+      "label": "Victime",
+      "data": {
+        "notes": "",
+        "source": "",
+        "confidence": "uncertain",
+        "created": "2026-08-05T10:46:32.144Z",
+        "modified": "2026-08-05T10:46:32.144Z"
+      }
+    },
+    {
+      "id": "QahRdYcBN1pmjR1WG62cx",
+      "source": "fkpZHlaqCTU9aCnfqMojs",
+      "target": "thged89Nv5L7AwaY0HQkT",
+      "label": "Victime",
+      "data": {
+        "notes": "",
+        "source": "",
+        "confidence": "uncertain",
+        "created": "2026-08-05T11:23:08.130Z",
+        "modified": "2026-08-05T11:23:08.130Z"
+      }
+    },
+    {
+      "id": "kNZhdsCVoGUqADEzxMWoO",
+      "source": "fkpZHlaqCTU9aCnfqMojs",
+      "target": "0RzaTrXy_keo0WH3iX3aW",
+      "label": "Victime N° 1",
+      "data": {
+        "notes": "",
+        "source": "",
+        "confidence": "uncertain",
+        "created": "2026-08-05T11:36:13.076Z",
+        "modified": "2026-08-05T11:36:13.076Z",
+        "labelPosition": {
+          "x": -122.82322059939318,
+          "y": -822.1226904635756
+        }
+      }
+    },
+    {
+      "id": "6hJRAJEwYHAmNed8AllRX",
+      "source": "fkpZHlaqCTU9aCnfqMojs",
+      "target": "IMhi0Z9nyXb_uaOvsMVte",
+      "label": "Victime N° 2",
+      "data": {
+        "notes": "",
+        "source": "",
+        "confidence": "uncertain",
+        "created": "2026-08-05T11:43:58.729Z",
+        "modified": "2026-08-05T11:43:58.729Z",
+        "labelPosition": {
+          "x": -8.220774426669081,
+          "y": -823.4749317163513
+        }
+      }
+    }
+  ],
+  "reports": [],
+  "checksum": "0d1934e2"
+}
