@@ -11,7 +11,7 @@ Bienvenue sur **Crimiland**, une base de connaissances dédiée au référenceme
 ## Fiches Récentes :
 
 * [[content/tueuses-en-serie/Wuornos-Aileen|Wuornos-Aileen]] - *"La demoiselle de la mort - the damoisel of death" (1989-1990)*
-* [[content/tueurs-en-serie/Dahmer-Jeffrey|Jeffrey Dahmer]] *"Le cannibale"*
+* [[content/France/tueurs-en-serie/Dahmer-Jeffrey|Jeffrey Dahmer]] *"Le cannibale"*
 * *[[Barraza-Juana|BARRAZA Juana]] * "La Mataviejitas" - "La tueuse de vieilles femmes" (2003 - 2006)*
 
 ---
