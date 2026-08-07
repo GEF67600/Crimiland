@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"2530f884c51eed55","x":-3880,"y":-200,"width":290,"height":160,"type":"group","label":"Groupe sans titre"},
+		{"id":"f1151e85cbdeaed3","x":-3480,"y":0,"width":250,"height":60,"type":"text","text":"Guy GEORGES RAMPION"},
+		{"id":"3f38b549fb3795fa","x":-3860,"y":-180,"width":250,"height":60,"type":"text","text":"Roselyne Derouineau \nNovembre 1976"},
+		{"id":"6e928fbc53868f81","x":-3860,"y":-120,"width":250,"height":60,"type":"text","text":"Christiane Derouineau\n31 mars 1978"}
+	],
+	"edges":[
+		{"id":"93d3caddda3ebc65","fromNode":"f1151e85cbdeaed3","fromSide":"left","toNode":"3f38b549fb3795fa","toSide":"right"},
+		{"id":"c71a88ea4b0e5057","fromNode":"f1151e85cbdeaed3","fromSide":"left","toNode":"6e928fbc53868f81","toSide":"right","label":"Premières\nVictimes"}
+	]
+}
